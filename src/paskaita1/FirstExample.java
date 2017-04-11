@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class FirstExample {
 
     public static void main (String[] args) {
-        System.out.println("Hi Andrius");
+        System.out.println("Hi Tomas");
         FirstExamplSupportClass example = new FirstExamplSupportClass();
         example.sayHi();
 

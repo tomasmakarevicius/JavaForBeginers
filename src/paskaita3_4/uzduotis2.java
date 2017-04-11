@@ -1,4 +1,4 @@
-package paskaita3;
+package paskaita3_4;
 
 import java.util.Scanner;
 
@@ -12,7 +12,16 @@ public class uzduotis2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        while (true) {
+        String word = "";
+
+        do {System.out.println("Iveskite zodi");
+            word = sc.nextLine();
+            System.out.println("zodis >> " + word);
+
+        } while (!word.equals("pabaiga") );
+        //galimi du variantai... galima naudoti kuris patrauklesnis
+
+        /*while (true) {
             System.out.println("Iveskite zodi");
             String name = sc.nextLine();
             System.out.println("zodis >> " + name);
@@ -20,4 +29,7 @@ public class uzduotis2 {
                 break;
 
 
-            }}}}
+            }
+        }*/
+    }
+}

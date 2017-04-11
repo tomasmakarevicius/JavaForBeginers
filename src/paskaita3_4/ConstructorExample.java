@@ -1,13 +1,11 @@
-package paskaita3;
-
-import com.sun.org.apache.xpath.internal.SourceTree;
+package paskaita3_4;
 
 /**
  * Created by tmaka on 4/6/2017.
  */
 public class ConstructorExample {
 
-    //tuscias konstruktorius visos klases pagal nutylejima tuscia konstruktoriu
+    //tuscias konstruktorius; Visos klases pagal nutylejima turi tuscia konstruktoriu
     public ConstructorExample() {
         System.out.println("Tuscias konstruktorius");
 

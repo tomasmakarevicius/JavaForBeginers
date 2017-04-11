@@ -1,6 +1,4 @@
-package paskaita3;
-
-import jdk.nashorn.internal.ir.WhileNode;
+package paskaita3_4;
 
 import java.util.Scanner;
 

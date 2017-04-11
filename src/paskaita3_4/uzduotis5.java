@@ -1,4 +1,4 @@
-package paskaita3;
+package paskaita3_4;
 
 import java.util.Scanner;
 

@@ -1,6 +1,4 @@
-package paskaita3;
-
-import com.sun.org.apache.xpath.internal.SourceTree;
+package paskaita3_4;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
